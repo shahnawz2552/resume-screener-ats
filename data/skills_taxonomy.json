@@ -1,0 +1,61 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c++", "c#", "go", "golang",
+    "ruby", "php", "swift", "kotlin", "rust", "scala", "r", "matlab", "sql",
+    "bash", "shell", "perl", "dart"
+  ],
+  "data_analytics": [
+    "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly", "tableau",
+    "power bi", "powerbi", "excel", "google sheets", "looker", "qlik",
+    "data visualization", "data analysis", "data cleaning", "etl",
+    "data wrangling", "exploratory data analysis", "eda", "dax", "vlookup",
+    "pivot tables", "openpyxl"
+  ],
+  "machine_learning": [
+    "scikit-learn", "sklearn", "tensorflow", "pytorch", "keras", "xgboost",
+    "lightgbm", "machine learning", "deep learning", "neural networks", "nlp",
+    "natural language processing", "computer vision", "transformers",
+    "hugging face", "spacy", "nltk", "regression", "classification",
+    "clustering", "random forest", "gradient boosting", "feature engineering"
+  ],
+  "databases": [
+    "mysql", "postgresql", "postgres", "sqlite", "mongodb", "redis", "oracle",
+    "sql server", "mssql", "dynamodb", "cassandra", "elasticsearch", "snowflake",
+    "bigquery", "redshift", "databricks"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "google cloud", "docker", "kubernetes", "k8s",
+    "terraform", "ansible", "jenkins", "git", "github", "gitlab", "ci/cd",
+    "linux", "nginx", "apache", "lambda", "ec2", "s3"
+  ],
+  "web_frameworks": [
+    "django", "flask", "fastapi", "streamlit", "react", "angular", "vue",
+    "node.js", "nodejs", "express", "spring boot", "rest api", "graphql",
+    "html", "css", "bootstrap", "tailwind"
+  ],
+  "hr_specific": [
+    "recruitment", "talent acquisition", "onboarding", "employee engagement",
+    "performance management", "compensation", "benefits administration",
+    "hris", "workday", "successfactors", "bamboohr", "greenhouse", "lever",
+    "ats", "applicant tracking", "payroll", "hr analytics", "people analytics",
+    "attrition analysis", "workforce planning", "talent management",
+    "labor laws", "employee relations", "diversity and inclusion", "dei",
+    "training and development", "okrs", "kpis"
+  ],
+  "business_skills": [
+    "stakeholder management", "project management", "agile", "scrum", "kanban",
+    "jira", "confluence", "trello", "asana", "business analysis",
+    "requirements gathering", "process improvement", "lean", "six sigma",
+    "presentation", "reporting", "forecasting", "budgeting"
+  ],
+  "soft_skills": [
+    "communication", "leadership", "teamwork", "problem solving",
+    "critical thinking", "adaptability", "time management", "collaboration",
+    "attention to detail", "analytical thinking", "decision making", "mentoring"
+  ],
+  "certifications": [
+    "pmp", "scrum master", "csm", "aws certified", "azure certified",
+    "google certified", "shrm", "shrm-cp", "shrm-scp", "phr", "sphr",
+    "cipd", "six sigma green belt", "six sigma black belt"
+  ]
+}

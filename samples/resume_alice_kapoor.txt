@@ -1,0 +1,33 @@
+Alice Kapoor
+People Analytics Lead | Bengaluru, India
+
+Summary
+People analytics professional with 5 years of experience translating HRIS data
+into retention and hiring strategies for fast-growing companies. SHRM-CP certified.
+
+Skills
+- Python (pandas, numpy, scikit-learn, openpyxl), SQL, R
+- Power BI, Tableau, Excel (pivot tables, vlookup, advanced formulas)
+- Workday, BambooHR, SuccessFactors
+- Statistics, exploratory data analysis, feature engineering, classification
+- Stakeholder management, communication, presentation
+
+Experience
+Senior People Analyst — Lumen Tech (2022 — present)
+- Built attrition prediction model in scikit-learn that flagged 87% of resignations
+  60 days in advance; rolled out to 4 business units.
+- Redesigned monthly HR dashboard in Power BI; reduced reporting effort from
+  6 hours to 30 minutes per cycle.
+- Maintained Python ETL pipelines pulling from Workday into Snowflake.
+- Partnered with HR business partners on diversity and inclusion reporting.
+
+Data Analyst — RetailCo (2019 — 2022)
+- Delivered ad-hoc SQL analyses on hiring funnel and time-to-hire.
+- Automated weekly recruitment reports with pandas and openpyxl.
+
+Education
+Master of Computer Applications, University of Pune, 2019
+
+Certifications
+- SHRM-CP (2023)
+- Google Data Analytics Professional Certificate (2021)

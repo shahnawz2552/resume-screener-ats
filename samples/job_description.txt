@@ -1,0 +1,30 @@
+Job Title: Data Analyst — HR Analytics
+Location: Remote (India / EMEA overlap)
+Department: People Analytics
+
+About the role
+We are hiring a Data Analyst to join our People Analytics team. You will partner
+with HR business partners and the talent leadership team to turn employee data
+into decisions about retention, hiring, and engagement.
+
+Responsibilities
+- Build dashboards in Power BI and Excel to track attrition, time-to-hire, and
+  engagement KPIs.
+- Run ad-hoc analyses on HRIS data (Workday) to answer business questions.
+- Develop reusable Python pipelines (pandas, numpy, openpyxl) for monthly reporting.
+- Apply basic machine learning (scikit-learn) for attrition and churn prediction.
+- Translate findings into clear narratives for non-technical stakeholders.
+- Collaborate with the data engineering team on SQL data models.
+
+Required skills
+- 2+ years of experience in data analytics, ideally in HR analytics or people analytics.
+- Strong Python (pandas, numpy) and SQL skills.
+- Hands-on experience with Excel (pivot tables, vlookup) and Power BI or Tableau.
+- Working knowledge of statistics and exploratory data analysis (EDA).
+- Excellent communication and stakeholder management skills.
+
+Nice to have
+- Experience with HRIS platforms (Workday, BambooHR, SuccessFactors).
+- Familiarity with scikit-learn, machine learning, and feature engineering.
+- Exposure to cloud platforms (AWS or GCP) and version control with Git.
+- SHRM or PHR certification.

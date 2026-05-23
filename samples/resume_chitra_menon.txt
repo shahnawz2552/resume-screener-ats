@@ -1,0 +1,35 @@
+Chitra Menon
+Data Analyst | Chennai, India
+
+Summary
+Data analyst with 2 years of experience delivering Python-driven reports and
+Excel dashboards for HR and operations teams. Focused on building reusable,
+auditable pipelines.
+
+Skills
+- Python: pandas, numpy, matplotlib, seaborn, openpyxl
+- SQL (MySQL, PostgreSQL)
+- Excel (pivot tables, vlookup), Power BI dashboards
+- Exploratory data analysis, data cleaning, ETL
+- Communication, attention to detail, collaboration
+
+Experience
+Data Analyst — Talent Solutions Ltd. (2023 — present)
+- Built Python pipeline for monthly attrition reporting; produced branded
+  Excel workbook with conditional formatting using openpyxl.
+- Created Power BI dashboard tracking time-to-hire and recruitment funnel
+  conversion across 8 departments.
+- Performed exploratory data analysis on engagement survey data; presented
+  findings to HR leadership.
+- Maintained SQL views feeding the people analytics warehouse.
+
+Junior Analyst — Insight Labs (2022 — 2023)
+- Cleaned and merged HR datasets in pandas; produced ad-hoc reports for
+  recruitment leads.
+- Authored documentation for reporting workflows.
+
+Education
+Master of Computer Applications, Anna University, 2022
+
+Certifications
+- Microsoft Power BI Data Analyst Associate (2024)

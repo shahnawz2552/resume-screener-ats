@@ -1,0 +1,26 @@
+Ben Costa
+Software Engineer | Lisbon, Portugal
+
+Summary
+Backend engineer with 4 years of experience building REST APIs and microservices.
+Looking to transition into data-heavy roles.
+
+Skills
+- Java, Spring Boot, Node.js, Express
+- PostgreSQL, MongoDB, Redis
+- Docker, Kubernetes, AWS (EC2, S3, Lambda)
+- Git, Jenkins, CI/CD
+- Some Python scripting for automation
+
+Experience
+Software Engineer — FinTech Co. (2021 — present)
+- Built and maintained 12 microservices in Java/Spring Boot serving 2M requests/day.
+- Designed PostgreSQL schemas and optimized queries.
+- Wrote Python scripts for log parsing and infrastructure automation.
+
+Junior Developer — Web Studio (2019 — 2021)
+- Built REST APIs in Node.js and Express.
+- Maintained MongoDB datasets for client portals.
+
+Education
+B.Sc. Computer Science, University of Lisbon, 2019
