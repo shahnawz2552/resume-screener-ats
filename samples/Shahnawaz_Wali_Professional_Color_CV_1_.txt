@@ -1,0 +1,31 @@
+SHAHNAWAZ WALI
+Phone: +91 9622622022 | Email: your_email_here
+Kakapora, Pulwama
+CAREER OBJECTIVE
+Motivated and detail-oriented MCA graduate (2023) with strong foundations in computer applications, programming, and problem-solving. Seeking an opportunity to apply my technical knowledge and analytical skills in a dynamic organization while contributing to its growth and enhancing my professional development.
+EDUCATION
+* Master of Computer Applications (MCA) - Cluster University Srinagar, 2023
+* Bachelor's Degree - Cluster University Srinagar, 2021
+TECHNICAL SKILLS
+* Programming: Java, Python, C, C++
+* Web Development: HTML, CSS, JavaScript, PHP, Bootstrap
+* Database: MySQL, Oracle, SQL Server
+* Tools: Git, VS Code, Eclipse, NetBeans, Microsoft Office, JIRA
+* Operating Systems: Windows, Linux
+* Concepts: Data Structures & Algorithms, OOP, SDLC, Debugging & Testing
+SOFT SKILLS
+* Analytical Thinking
+* Problem Solving
+* Teamwork & Collaboration
+* Communication Skills
+* Time Management
+PROJECTS
+Colour Recognition using Machine Learning - Developed a machine learning model to recognize and categorize colors from images.
+CERTIFICATIONS
+* Computer Network and Hacking Courses - Cisco
+LANGUAGES
+* English
+* Hindi
+INTERESTS
+* Coding and exploring new technologies
+* Reading tech blogs
